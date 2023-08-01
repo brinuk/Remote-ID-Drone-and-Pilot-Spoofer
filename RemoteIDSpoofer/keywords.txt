@@ -1,0 +1,50 @@
+#######################################
+# Syntax Coloring Map for FrSkyR9MSportDecoder
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+rxData	KEYWORD1
+dataBuffer	KEYWORD1
+bufferPointer	KEYWORD1
+sentence	KEYWORD1
+hours	KEYWORD1
+minutes	KEYWORD1
+seconds	KEYWORD1
+latitude	KEYWORD1
+longitude	KEYWORD1
+hemisphereNS	KEYWORD1
+hemisphereEW	KEYWORD1
+gpsFix	KEYWORD1
+hdop	KEYWORD1
+altitude	KEYWORD1
+geoidHeight	KEYWORD1
+distance	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+BN880Decoder	KEYWORD2
+begin	KEYWORD2
+readRawData	KEYWORD2
+printDataBuffer	KEYWORD2
+getSentence	KEYWORD2
+getSentenceIndex	KEYWORS2
+getContentsGNGGA	KEYWORD2
+distanceApart	KEYWORD2
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RXPIN	LITERAL1
+TXPIN	LITERAL1
+GPSBAUD	LITERAL1
+START-SENTENCE	LITERAL1
+DATA_BUFFER_SIZE	LITERAL1
+
