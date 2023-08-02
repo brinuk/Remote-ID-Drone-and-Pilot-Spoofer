@@ -2,7 +2,7 @@ Remote ID Drone and Pilot Spoofer
 
 Detects your location with a GPS module and spawns 16 fake drones and 16 fake pilots around your location.
 
-Built on the work by JJShoots/RemoteIDSpoofer
+Built on the work by JJShoots/RemoteIDSpoofer to which I added my GPS decoder library.
 
 Uses a Wemos R2 arduino type board and a BN220 GPS module.
 Connections for the Wemos R2 to BN220 are shown in the arduino sketch code
